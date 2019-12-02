@@ -5,6 +5,7 @@ Problem Definition:
 Drupal's content publishing and workflow system are very flexible and can be customized in many different ways. However we would like to have a easy-to-use common content intake, filtering, collaboration and publishing workflow. 
 
 Required Drupal Modules:
+
   Rules Module: (https://www.drupal.org/project/rules)
   Workflow Module: (https://www.drupal.org/project/workflow)
 
